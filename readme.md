@@ -7,3 +7,5 @@ the best ways are
 4. repeat 
 
   thankyou
+
+  gramar is fixed
